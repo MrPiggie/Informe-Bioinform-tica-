@@ -60,6 +60,9 @@ Luciano Frez
 convergente o divergente.**
 
 ![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/Alineamiento%20%20hemoglobina,%20glutation%20peroxidasa%20y%20cytochrome%20c.png?raw=true)
+**Imagen 1:** Alineamiento hemoglobina, glutation peroxidasa y cytochrome c.
+
+Dado el alineamiento generado se puede decir que son un ejemplo de evolución divergente, esto debido a que presentan un ancenstro en común.
 
 **Discuta el concepto de “homología"bajo el contexto de evolución convergente y divergente**
 
