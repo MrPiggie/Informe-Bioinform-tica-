@@ -1,7 +1,7 @@
 # Informe Bioinformática VI
 Luciano Frez
 
-+**Traduzca los nombres de las serina proteasas descritas anteriormente.**
+**Traduzca los nombres de las serina proteasas descritas anteriormente.**
 
     Chymotrypsin: Quimotripsina
     
@@ -52,6 +52,10 @@ Luciano Frez
 
 **Explique con sus palabras los conceptos de evolución convergente y divergente**
 
+    Evolución convergente: Son organismos o moléculas que no tienen un ancestro en común(de manera directa), pero que han evolucionado hasta tener característias parecidas o similares entre ellos.
+    
+    Evolución Divergente: Son organismo o moléculas con caraterísticas diferentes, pero que vienen de un ancestro en común.
+    
 **Investigue si hemoglobina, glutation peroxidasa y cytochrome c son ejemplos de evolución
 convergente o divergente.**
 
