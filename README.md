@@ -3,27 +3,27 @@ Luciano Frez
 
 Traduzca los nombres de las serina proteasas descritas anteriormente.
 
-    Chymotrypsin
+    Chymotrypsin: Quimotripsina
     
-    Trypsin
+    Trypsin:Tripsina
     
-    Elastase
+    Elastase: Elastasa
     
-    Plasmin
+    Plasmin: Plasmina
     
-    Thrombin
+    Thrombin: Trombina
     
-    Acrosomal protease
+    Acrosomal protease: Proteasa Acrosomal
     
-    Complement C1
+    Complement C1: Complemento C1
     
-    Keratinase
+    Keratinase: Queratinasa
     
-    Collagenase
+    Collagenase: Colagenasa
     
-    Fibrinolysin
+    Fibrinolysin: Fibrinolisina
     
-    Cocoonase
+    Cocoonase: Cocoonasa
 
 Describa su función de forma general.
 
