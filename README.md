@@ -13,7 +13,7 @@ Traduzca los nombres de las serina proteasas descritas anteriormente.
     
     Thrombin: Trombina
     
-    Acrosomal protease: Proteasa Acrosomal
+    Acrosomal protease: Proteasa Acrosomal o Acrosina
     
     Complement C1: Complemento C1
     
@@ -23,31 +23,31 @@ Traduzca los nombres de las serina proteasas descritas anteriormente.
     
     Fibrinolysin: Fibrinolisina
     
-    Cocoonase: Cocoonasa
+    Cocoonase: Coconasa
 
 Describa su función de forma general.
 
-    **Chymotrypsin:** La Quimotripsina es una enzima que puede realizar proteólisis. Es una enzima digestiva encargada de degradar las proteínas de los alimentos en el intestino.Es un tipo de proteasa que está en una familia conocida como serina proteasas, también conocido como serina endopeptidasas.
+    Chymotrypsin: La Quimotripsina es una enzima digestiva que puede realizar proteólisis encargada de degradar las proteínas de los alimentos en el intestino. Pertenece a la familia conocida como serina proteasas.
     
-    Trypsin:
+    Trypsin: La tripsina es una enzima peptidasa, que rompe los enlaces peptídicos de las proteínas mediante hidrólisis para formar péptidos de menor tamaño y aminoácidos. es producida en el páncreas y secretada en el duodeno, donde es esencial para la digestión.
     
-    Elastase: 
+    Elastase: La elastasa es una enzima encargada de la degradación de las fibras elásticas. Esta enzima está presente tanto en el humano como en algunos microorganismos en los que constituye un importante factor de virulencia.
     
-    Plasmin: 
+    Plasmin: La plasmina es una enzima proteasa que degrada fibrina.
     
-    Thrombin: 
+    Thrombin: La trombina es una enzima del tipo de las peptidasas. Se forma como parte del proceso de coagulación sanguínea. Ayuda a la degradación del fibrinógeno a monómeros de fibrina.
     
-    Acromal protease: 
+    Acromal protease: La Proteasa Acrosomal o también conocida como Acrosina, debe su nombre ya que está presente en el acrosoma de los espermatozoides mamíferos, y ha sido involucrada en la unión y penetración de la Zona Pelúcida (capa externa que rodea el ovocito)
     
     Complement C1: 
     
-    Keratinase: 
+    Keratinase: Es una enzima proteolítica que degrada la queratina, presente al algunos microorganismos como e Trichophyton mentagrophytes que ocasiona la tiña de los pies
     
-    Collagenase: 
+    Collagenase: La colagenasa es una enzima, más específicamente una metaloproteinasa de matriz que rompe los enlaces peptídicos de los colágenos que pueden ser tipo (I, II, III, IV, V) y que contiene zinc
     
-    Fibrinolysin: 
+    Fibrinolysin:  Enzima proteolítica que disuelve la fibrina. Se forma a partir del plasminógeno presente en el plasma. Se denomina también plasmina.
     
-    Cocoonase: 
+    Cocoonase: Es una enzima proteolítica tipo tripsina producida por gusanos de seda (de las especies Bombyx y Antheraea) cuando se acercan a las etapas finales de su metamorfosis. Es producido por células en la probóscide y exudado en galeae. Su función es debilitar las fibras del capullo, lo que facilita la aparición del insecto adulto.
 
 
 
