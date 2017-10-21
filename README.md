@@ -59,6 +59,8 @@ Luciano Frez
 **Investigue si hemoglobina, glutation peroxidasa y cytochrome c son ejemplos de evolución
 convergente o divergente.**
 
+
+
 **Discuta el concepto de “homología"bajo el contexto de evolución convergente y divergente**
 
 **A partir de los datos de la página de la Enzyme comission11 describa de manera general las
