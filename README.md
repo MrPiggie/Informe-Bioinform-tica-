@@ -1,4 +1,4 @@
-# Informe-Bioinform-tica-
+# Informe Bioinformática VI
 Luciano Frez
 
 Traduzca los nombres de las serina proteasas descritas anteriormente.
