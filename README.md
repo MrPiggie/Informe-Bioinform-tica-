@@ -39,7 +39,8 @@ Describa su función de forma general.
     
     Acromal protease: La Proteasa Acrosomal o también conocida como Acrosina, debe su nombre ya que está presente en el acrosoma de los espermatozoides mamíferos, y ha sido involucrada en la unión y penetración de la Zona Pelúcida (capa externa que rodea el ovocito)
     
-    Complement C1: 
+    Complement C1:  Sistema del complemento es uno de los componentes fundamentales de la conocida respuesta inmunitaria defensiva ante un agente hostil. Consta de un conjunto de moléculas plasmáticas implicadas en distintas cascadas bioquímicas, cuyas funciones son potenciar la respuesta inflamatoria, facilitar la fagocitosis y dirigir la lisis de células incluyendo la apoptosis.
+    La molécula C1 es la molécula encargada de unirse al complejo anticuerpo-antígeno para así dar paso a las siguientes etapas. 
     
     Keratinase: Es una enzima proteolítica que degrada la queratina, presente al algunos microorganismos como e Trichophyton mentagrophytes que ocasiona la tiña de los pies
     
