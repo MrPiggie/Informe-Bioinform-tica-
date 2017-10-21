@@ -27,6 +27,30 @@ Traduzca los nombres de las serina proteasas descritas anteriormente.
 
 Describa su función de forma general.
 
+    Chymotrypsin:
+    
+    Trypsin:
+    
+    Elastase: 
+    
+    Plasmin: 
+    
+    Thrombin: 
+    
+    Acromal protease: 
+    
+    Complement C1: 
+    
+    Keratinase: 
+    
+    Collagenase: 
+    
+    Fibrinolysin: 
+    
+    Cocoonase: 
+
+
+
 Explique con sus palabras los conceptos de evolución convergente y divergente
 
 Investigue si hemoglobina, glutation peroxidasa y cytochrome c son ejemplos de evolución
