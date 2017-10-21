@@ -27,7 +27,7 @@ Traduzca los nombres de las serina proteasas descritas anteriormente.
 
 Describa su función de forma general.
 
-    Chymotrypsin:
+    **Chymotrypsin:** La Quimotripsina es una enzima que puede realizar proteólisis. Es una enzima digestiva encargada de degradar las proteínas de los alimentos en el intestino.Es un tipo de proteasa que está en una familia conocida como serina proteasas, también conocido como serina endopeptidasas.
     
     Trypsin:
     
