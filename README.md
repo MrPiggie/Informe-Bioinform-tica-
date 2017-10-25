@@ -71,7 +71,7 @@ Existen ''dos tipos'' de homología. Tanto homología(la cual es producto de que
 **A partir de los datos de la página de la Enzyme comission11 describa de manera general las
 clases en las cuales se agrupan las enzimas y las reacciones que estas catalizan.**
 
-       	Oxidoreductasas: una oxidoreductasa es una enzima que cataliza la transferencia de electrones de una molécula, el reductor, también llamado donador de electrones, a otra, el oxidante, también llamado aceptor de electrones. Este grupo de enzimas generalmente utiliza NADP o NAD + como cofactores
+       Oxidoreductasas: una oxidoreductasa es una enzima que cataliza la transferencia de electrones de una molécula, el reductor, también llamado donador de electrones, a otra, el oxidante, también llamado aceptor de electrones. Este grupo de enzimas generalmente utiliza NADP o NAD + como cofactores
         
         Transferasas: Son enzimas que promulga la transferencia de grupos funcionales específicos de una molécula (llamada el donante) a otra (llamada el aceptor).
         
@@ -90,8 +90,21 @@ clases en las cuales se agrupan las enzimas y las reacciones que estas catalizan
 subclase y subsubclase hasta encontrar el número identificador EC de la enzimas Serine
 Proteasas listadas anteriormente en el cuadro 2.**
 
+    el numero corresponde a Hidrolasas (3), son aquellas que usan H2O para romper enlaces; El (4) corresponde a que actuan en enlaces peptidicos; el (21) a las Serinas endopeptidasas.
+
 **A partir de la clasificación de la enzyme commission, identifique y diferencie las reacciones
 de la enzimas de las subsubclases listadas en el cuadro 2.**
+
+    Trypsin-like (3.4.21.4): Su reaccion es la de cortar en Arg o Lys
+
+    Chymotrypsin-like (3.4.21.1): Su reacion es la de cortar Tyr, Trp, Phe o Leu
+
+    Thrombin-like (3.4.21.5): Su reaccion es la de cortar en Arg-Gly en fibrogeno para formar fibrina y liberar fibronopeptidos A y B
+
+    Elastase-like (3.4.21.36): su reccion es la de hidrolisar proteinas, includiendo elastiina y corta en Ala
+
+    Subtilisin-like (3.4.21.62): su reaccion es hidrolisis de proteinas con anchos enlaces peptidicos y preferentemente para largos residuos sin carga en P1, ademas hidrolisa amidas peptidicas.
+
 
 **A partir de lo aprendido e incluyendo la información del organismo del cual provienen las
 proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.**
