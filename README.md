@@ -64,10 +64,27 @@ convergente o divergente.**
 
 Dado el alineamiento generado se puede decir que son un ejemplo de evolución divergente, esto debido a que presentan un ancenstro en común.
 
-**Discuta el concepto de “homología"bajo el contexto de evolución convergente y divergente**
+**Discuta el concepto de “homología" bajo el contexto de evolución convergente y divergente**
+
+Existen ''dos tipos'' de homología. Tanto homología(la cual es producto de que existe un ancestro en común) y la analogía( donde no hay un ancestro en común), teniendo esto en claro se podrían comparar dos organos o estructuras que sean homólogas las cuales tienen un ancestro en común pero no necesariamente la misma función porque pudo haber ocurrido algún tipo de evolución divergente producto de algún suceso  geológico, etc. También podemos comparar dos estrucutras las cuales tienen la misma función, pero no vienen del mismo ancestro. Esto es producto de una evolución convergente en donde uno o más individuos evolucionaron para adaptarse dentro del mismo nicho. 
 
 **A partir de los datos de la página de la Enzyme comission11 describa de manera general las
 clases en las cuales se agrupan las enzimas y las reacciones que estas catalizan.**
+
+       	Oxidoreductasas: una oxidoreductasa es una enzima que cataliza la transferencia de electrones de una molécula, el reductor, también llamado donador de electrones, a otra, el oxidante, también llamado aceptor de electrones. Este grupo de enzimas generalmente utiliza NADP o NAD + como cofactores
+        
+        Transferasas: Son enzimas que promulga la transferencia de grupos funcionales específicos de una molécula (llamada el donante) a otra (llamada el aceptor).
+        
+        Hidrolasas: una hidrolasa o enzima hidrolítica es una enzima que cataliza la hidrólisis de un enlace químico.
+        
+        Liasas: Es una enzima que cataliza la ruptura (una reacción de "eliminación") de diversos enlaces químicos por medios distintos de la hidrólisis (una reacción de "sustitución") y la oxidación, que a menudo forman un nuevo doble enlace o una nueva estructura de anillo.
+        
+        Isomerasas: Son enzimas que convierten una molécula de un isómero a otro.
+        
+        Ligasas: Son enzimas que pueden catalizar la unión de dos moléculas grandes formando un nuevo enlace químico, generalmente con la hidrólisis acompañante de un pequeño grupo químico colgante en una de las moléculas más grandes o la enzima que cataliza la unión de dos compuestos
+        
+        
+      
 
 **A partir de la clasificación de la enzyme commission, identifique y justifique cada clase,
 subclase y subsubclase hasta encontrar el número identificador EC de la enzimas Serine
