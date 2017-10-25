@@ -107,11 +107,14 @@ de la enzimas de las subsubclases listadas en el cuadro 2.**
 
 
 **A partir de lo aprendido e incluyendo la información del organismo del cual provienen las
-proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.**
+proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.** HAY QUE HACER ESTO
 
 **¿Describa a manera general la información biológica que puede obtener en UNIPROT?.**
 
-**Describa cada una de sus proteínas. Utilice la tabla de descripción utilizada anteriormente.** *Compruebe los datos de la tabla 3.*
+Universal Protein Resource (UniProt) es un recurso integral para la secuencia de proteínas y los datos de anotación. En esta página puedes encontrar la secuencia de aminoácidos de diferentes proteínas, estructuras, etc. Se pueden generar alineamientos entre ellas para determinar la existencia o no de un ancestro en común(evolución divergente) o si simplemente el parentezco entre ellas es gracias al azar(convergente). 
+
+**Describa cada una de sus proteínas. Utilice la tabla de descripción utilizada anteriormente.** 
+*Compruebe los datos de la tabla 3.*
 
 *Utilice los campos, Similarity, identity y beta strands para observar como estos parámetros
 se conservan a través de las secuencias.*
@@ -188,3 +191,6 @@ cercanos?**
 
 **En base a sus resultados, ¿que relación debe existir entre la secuencia,estructura y la función?.
 Genere una hipótesis de trabajo.**
+
+|---|---|--|
+|---|----|---|
