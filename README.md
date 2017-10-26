@@ -221,45 +221,53 @@ Una sola forma de analizar el alineamiento entrega información sobre dominios c
 *informe el nombre de la familia, dominios y al menos una porción del logo que define cada
 una de las familias*
 
+El nombre de la familia es Tripsina y la superfamilia que pertenecen corresponden a las Proteasas (PA clan, superfamily A), poseen dominios tripsinas en cada proteína buscada.
+
 **Para cada proteína, vaya a la sección “Detailed signature matches”. Registre los patrones/
 familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si pasa
 el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el
 nombre completo del motivo/familia y la base de datos de donde proviene.**
 
+
+
 **La información obtenida para Pfam y Prosite desde InterPro, ¿corresponde con aquella
 obtenida por usted desde esas bases de datos directamente en los puntos anteriores?**
+
+Si, además nos entrega información adicional de más familias y es más representativa y simple de entender lo que nos entrega la pagina
 
 **¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y que
 información aportan sobre las proteínas que usted investigó? Nombre las bases de datos.**
 
-**La información obtenida para Pfam y Prosite, InterPro y HMMER, ¿corresponde con aquella
-obtenida por usted desde esas bases de datos directamente en los puntos anteriores?**
+Tiene las siguientes bases de datos:
+- CATH-Gene3D: Describe las familias y dominios de la proteína en el genoma
+- CDD: Sirve para identificar los dominios conservados a través de secuenciaciones múltiples
+- PANTHER: Una gran base de datos de superfamilias que esta subdivida por funcionabilidad
+- PIRSF: Sistema de clasificación con múltiples niveles de secuenciación de diversidad desde superfamilias y subfamilias
+- PRINTS: Usado para la caracterización de la proteína o dominio de la proteína
+- ProDom: Compilación de dominios en la cual trabaja por dominios homólogos
+- SUPERFAMILY: Usa los algoritmos de los modelos ocultos de Márkov en donde representa todas las proteínas de estructura conocida, por medio de la clasificación SCOP
 
-**¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y aportan
-información para las proteínas que usted investigó? Nombre las bases de datos.**
-
-**¿Son los resultados entregados equivalentes al buscar por código que por secuencia?**
-
-**¿Que puede inferir de las relaciones entre estas proteínas con los resultados entregados?**
-
-*En el caso que Ud. deba que caracterizar una muestra problema,*
-
-**Genere una hipótesis que pueda resolver utilizando la información contenida en los diferentes
-sitios observados**
-
-**¿Cuál programa o base de datos utilizaría?**
 
 **Utilizando las herramientas de este práctico compruebe que proteinas de baja distancia
 evolutiva entre ellas son reconocibles como miembros de una misma familia.**
+
+Utilizando una secuencia evolucionada de 130 PAM (1 Rates y 130 times), con una identidad del 38,06% con 96 similitudes a la secuencia original (Q99895). Al identificar su familia, la reconoció mediante el dominio que poseía (Dominio Tripsina), por lo que se puede inferir que fue parte de la familia de las tripsinas. Luego disminuyendo aúnmás la identidad (150 PAM, 27% identidad), el dominio se perdió, por lo que no fue reconocida por alguna familia. Entonces, una proteína se puede agrupar al reconocer el dominio que contenga.
 
 **Que sucederá al aumentar la distancia evolutiva entre estas proteinas, por ejemplo utilizando
 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje
 de similitud?**
 
+
+
 **¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homológos
 cercanos?**
 
+Para que no permita reconocer, seria perder el sitio activo de la proteína, como también cambiar su estructura, ya puede ser más larga o más corta, lo que haría que no se reconozca su homología en cuanto vaya evolucionando, como por ejemplo en la pregunta anterior, a medida que el tiempo (Generaciones) eran más, los cambios en la proteína eran más drásticos por lo que en algún momento no se reconocerá su homología
+
 **En base a sus resultados, ¿que relación debe existir entre la secuencia,estructura y la función?.
 Genere una hipótesis de trabajo.**
+
+Basándome en los resultados del practico, tanto la secuencia como la estructura permiten una función hacia la proteína, por lo que, si se llega a modificar, por ejemplo, la secuencia esta puede perder su sitio activo y además cambiaría su estructura, por lo que ya no sería homologa con la proteína sin modificar; lo mismo pasa con respecto a la estructura, ya que sin ella, la proteína no sería capaz de actuar, debido a inestabilidad o que su estructura no le permita a la proteína actuar.
+Es por eso que, para que una proteína sea funcional, debe poseer una secuencia y una estructura de forma que el sitio activo sea reconocible y accesible para que pueda actuar.
 
 
