@@ -263,6 +263,14 @@ Utilizando una secuencia evolucionada de 130 PAM (1 Rates y 130 times), con una 
 20,30,40,50,60,70,80 y 90 unidades PAM, cambiará el porcentaje de identidad? el porcentaje
 de similitud?**
 
+![dsgg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/20.png?raw=true)
+![dsgdsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/30.png?raw=true)
+![dsgfdh](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/40.png?raw=true)
+![sdgsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/50.png?raw=true)
+![dsgs](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/60.png?raw=true)
+![sdgdh](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/70.png?raw=true)
+![safags](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/80.png?raw=true)
+![sadgsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/90.png?raw=true)
 
 
 **¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homológos
