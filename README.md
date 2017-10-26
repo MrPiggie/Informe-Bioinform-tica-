@@ -245,8 +245,9 @@ de las familias**
 **¿Cuántos patrones únicos diferentes identificó entre las secuencias? informe el nombre del
 patrón y la secuencia consenso para cada uno de ellos.**
 
-    Según el alineamiento, se encontraron 55 posiciones similares y 28 posiciones idénticas, detallando solo un 10,3 % de identidad. 
-  ![dsfsf](
+    Según el alineamiento, se encontraron 55 posiciones similares y 28 posiciones idénticas, detallando solo un 10,3 % de identidad.
+    
+  ![dsfsf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/alineamiento.png?raw=true)
 
 **¿Que información le entrega esta página?**
 
