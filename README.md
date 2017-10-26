@@ -228,6 +228,12 @@ familias identificadas por InterPro para cada una de las secuencias. (PISTA: Si 
 el mouse sobre cada fila con información en esta sección, se expandirá una ventana con el
 nombre completo del motivo/familia y la base de datos de donde proviene.**
 
+![dsgsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/1SBT.png?raw=true)
+![sfhf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/1SGT.png?raw=true)
+![gshdf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/1YPH.png?raw=true)
+![dgdfhf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/2SGA.png?raw=true)
+![dgdh](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/3QTJ.png?raw=true)
+![dghfhf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/4H4F.png?raw=true)
 
 
 **La información obtenida para Pfam y Prosite desde InterPro, ¿corresponde con aquella
