@@ -90,16 +90,16 @@ clases en las cuales se agrupan las enzimas y las reacciones que estas catalizan
 subclase y subsubclase hasta encontrar el número identificador EC de la enzimas Serine
 Proteasas listadas anteriormente en el cuadro 2.**
 
-    el numero corresponde a Hidrolasas (3), son aquellas que usan H2O para romper enlaces; El (4) corresponde a que actuan en enlaces peptidicos; el (21) a las Serinas endopeptidasas.
+    3.4.21 corresponde a: 3(hidrolasas), las que usan H2O para romper enlaces; (4) corresponde a aquellas que actuan sobre enlaces peptidicos y (21) son las Serinas endopeptidasas.
 
 **A partir de la clasificación de la enzyme commission, identifique y diferencie las reacciones
 de la enzimas de las subsubclases listadas en el cuadro 2.**
 
-    Trypsin-like (3.4.21.4): Su reaccion es la de cortar en Arg o Lys
+    Trypsin-like (3.4.21.4): corresponde a la reaccion de cortar en Arg o Lys
 
-    Chymotrypsin-like (3.4.21.1): Su reacion es la de cortar Tyr, Trp, Phe o Leu
+    Chymotrypsin-like (3.4.21.1): corresponde a la reaccion de cortar Tyr, Trp, Phe o Leu
 
-    Thrombin-like (3.4.21.5): Su reaccion es la de cortar en Arg-Gly en fibrogeno para formar fibrina y liberar fibronopeptidos A y B
+    Thrombin-like (3.4.21.5): corresponde a la reaccion de cortar en Arg-Gly en fibrogeno para formar fibrina y liberar fibronopeptidos A y B
 
     Elastase-like (3.4.21.36): su reccion es la de hidrolisar proteinas, includiendo elastiina y corta en Ala
 
@@ -109,10 +109,7 @@ de la enzimas de las subsubclases listadas en el cuadro 2.**
 **A partir de lo aprendido e incluyendo la información del organismo del cual provienen las
 proteínas estudiadas discuta sobre el proceso de evolución de las serine proteasas.** 
 
-   Si fuese un proceso convergente, estaría respaldado por la información de que los pesos moleculares, largo de secuencia y una presencia en distintos reinos. Esto porque al estar tan alejados evolutivamente y tener diferencias en las cualidades de secuencia (no así en estructura), es muy probable que la cualidad de tener esa reacción específica haya sido muy necesaria y haya surgido por chance. O bien, que haya surgido por chance en cada reino y debido a su importancia, hubiese ocurrido una evolución divergente (previo a evolución convergente) en mamíferos, en reptiles, en ciertas familias bacterianas, etc. Lo que contrastaría a la hipótesis sería una alta identidad estructural en las proteínas en distintos reinos, ya que esto podría indicar una divergencia evolutiva. Como aun no llego a la sección de usar VMD no puedo responder esta pregunta.
-
-   Si fuese un proceso divergente, estaría respaldado por la evidencia de similitud estructural, ya que así se podría interpretar que la función, además de ser importante, necesita esa estructura, tanto del sitio activo como de aminoácidos importantes que atrapen al sustrato. También puede respaldar la hipótesis el hecho de que esté tan ampliamente difundida en los organismos, y que aparentemente su importancia no sea dependiente del ecosistema, sino que más bien a una necesidad intrínseca de sobrevivencia.
-
+Las serinas proteasas han evolucionado según la necesidad de los organismos. Unos comparten homología(ancestro en común), peor otras han ido adquiriendo funciones o estructuras muy similares entre ellas sin la necesidad de que exista algún pariente en común o ancestro.
 
 **¿Describa a manera general la información biológica que puede obtener en UNIPROT?.**
 
@@ -121,96 +118,154 @@ Universal Protein Resource (UniProt) es un recurso integral para la secuencia de
 **Describa cada una de sus proteínas. Utilice la tabla de descripción utilizada anteriormente.** 
 *Compruebe los datos de la tabla 3.*
 
-    4H4F  Cadena A, Largo secuencia aminoacídica 268 residuos. (La que posee 249 es una variante humana de la proteína), Peso molecular 29,484 Da, resolución 1,9 angstrom, fuente homo sapiens, nombre CTRC precursor de la quimiotripsina C, Pfam PF00089.
+    4H4F  Cadena A:
+    Largo secuencia aminoacídica: 268 residuos. 
+    Peso molecular: 29,484 Da
+    Resolución: 1,9 angstrom
+    Fuente: homo sapiens
+    Nombre: CTRC precursor de la quimiotripsina C
+    Pfam: PF00089.
 
-       3OTJ Aquí aparecen 2 resultados:
-    - Resolución 2,15 Angstroms. Cadena I. Nombre Inhibidor pancreático tripsina. Largo 100 residuos. Peso molecular 10,903 Da. Especie Bos taurus (Bovine). Pfam PF00014. Código uniprot P00974.
-    - Cadena E. Resolución 2,15 Angstroms. Código uniprot P00760. Nombre Tripsina catiónica. Especie Bos taurus (Bovine). Largo 246 residuos. Peso molecular 25,785 Da. Pfam PF00089.
-    Estas son isoformas
-
-    1YPH Cadenas A/B. Residuos 245. Especie Bos Taurus. Peso molecular 25,666 Da. Código Uniprot P00766. Resolución 1,34 Angstroms. Nombre Precursor del quimiotripsinogeno A. Pfam PF00089
-
-    1SGT Cadena A. Código uniprot P00775. Resolución 1.70 Angstroms. Largo 259 residuos. Peso molecular 26,776 Da. Especie Streptomyces griseus. Nombre Trypsin precursor sprT. Pfam PF00089.
-
-    2SGA Código uniprot P00776. Nombre Precursor streptogrisina A. Peso molecular 29,663 Da. Largo 297 residuos. Cadena A. Resolución 1,50 Angstroms. Especie Streptomyces griseus. Pfam PF00089 y PF02983.
-
-    1SBT Código uniprot P00782. Nombre Precursor subtilisina BPN. Especie Bacillus amyloliquefaciens (Bacillus velezensis). Cadena A. Resolución 2,5 Angstroms. Largo 382 Residuos. Peso molecular 39,181 Da. Pfam PF0082 y PF05922.
+    3OTJ :
+    (Cadena I)
+    Resolución:2,15 Angstroms 
+    Nombre: Inhibidor pancreático tripsina. 
+    Largo: 100 residuos. 
+    Peso molecular: 10,903 Da. 
+    Especie: Bos taurus (Bovine). 
+    Pfam: PF00014. 
     
-    Los datos de la Tabla con los datos descritos en la pregunta anterior no son los mismos debido a que hay variaciones de cada proteína. Los datos que describí corresponden a la proteína que se usa como referencia.
+    (Cadena E) 
+    Resolución 2,15 Angstroms. 
+    Nombre: Tripsina catiónica. 
+    Especie: Bos taurus (Bovine). 
+    Largo: 246 residuos.
+    Peso molecular: 25,785 Da. 
+    Pfam: PF00089.
+    
 
+    1YPH Cadenas A/B. 
+    Residuos 245. 
+    Especie Bos Taurus. 
+    Peso molecular 25,666 Da. 
+    Código Uniprot P00766. 
+    Resolución 1,34 Angstroms. 
+    Nombre Precursor del quimiotripsinogeno A. 
+    Pfam PF00089
+
+    1SGT Cadena A. 
+    Código uniprot P00775. 
+    Resolución 1.70 Angstroms. 
+    Largo 259 residuos. 
+    Peso molecular 26,776 Da. 
+    Especie Streptomyces griseus. 
+    Nombre Trypsin precursor sprT. 
+    Pfam PF00089.
+
+    2SGA 
+    Código uniprot P00776. 
+    Nombre Precursor streptogrisina A. 
+    Peso molecular 29,663 Da. 
+    Largo 297 residuos. 
+    
+    Cadena A. 
+    Resolución 1,50 Angstroms. 
+    Especie Streptomyces griseus. 
+    Pfam PF00089 y PF02983.
+
+    1SBT
+    Código uniprot P00782. 
+    Nombre Precursor subtilisina BPN. 
+    Especie Bacillus amyloliquefaciens (Bacillus velezensis). 
+    
+    Cadena A. 
+   
+    Resolución 2,5 Angstroms.
+    Largo 382 Residuos. 
+    Peso molecular 39,181 Da. 
+    Pfam PF0082 y PF05922.
+    
+ Los datos de la tabla respecto a los datos descritos no son los mismos. Debido a que hay variaciones en cada proteína. 
 
 *Utilice los campos, Similarity, identity y beta strands para observar como estos parámetros
 se conservan a través de las secuencias.*
 
+    Las proteínas poseen aminoácidos similares y conservan las láminas Beta.
+
 **¿Por que cambia el alineamiento cada vez que elimina una secuncia, se obtiene un resultado
 similar al eliminar una secuencia diferente de subtilisina?**
 
-    El alineamiento cambio cada vez que se elimina una secuencia, ya que las proteínas provienen de diferentes especies y poseen distintas longitudes residuales. Esto implica que el alineamiento ajusta los gaps y largo total en función del largo de cada secuencia. Si se elimina una, se elimina también las diferencias que podría haber entre la secuencia eliminada y las demás, modificando el patrón de alineamiento. Al eliminar la secuencia de subtilisina y otra más, obtuve que el alineamiento se va haciendo cada vez más corto, disminuyendo los tamaños de los gaps y la apertura de gaps. Hay que destacar que por alguna razón cuando se eliminó solo la secuencia de subtilisina, por alguna razón los sitios activos de algunas proteínas cambiaron de residuo. 
+    Se obtiene un resultado similar al eliminar una secuencia que no sea la de la subtilisina.  Esto puede ser porque las proteínas alineadas tienen algún parentezco o comparten alguna secuencia en común.
 
 **A partir de lo aprendido e incluyendo la información recopilada de las proteínas estudiadas
 discuta sobre el proceso de evolución de las serine proteasas.**
 
-    En base a los alineamientos y distinción de los sitios activos, se puede concluir que como los aminoácidos que se encuentran en los sitios activos de las proteínas son los mismos (histidina, ácido aspártico y serina), el patrón de evolución debe haber sido por divergencia y no convergencia. Esto también se apoya en el hecho de que al seleccionar las herramientas de alineamiento Negativo, polar y positivo, los aminoácidos que cumplen con estas características están alineados en casi todas las proteínas. Esto probablemente se generó en respuesta a mutaciones pero que siguen manteniendo las propiedades fisicoquímicas de las proteínas, manteniendo quizá la estructura o promover a que cumplan con una función similar. 
-    
-    Si fuese por convergencia, las probabilidades de que los patrones fisicoquímicos conservados en las serine proteasas estudiados sean similares/idénticos es más baja de que se hayan conservado debido a divergencia evolutiva. Es decir, que es poco probable de que en organismos tan distantes las cualidades fisicoquímicas en los residuos sean muy parecidas, incluso en lugares que no corresponden al sitio activo.
-
+    Las proteínas tienen un grado de similitud, pero no todas tienen ''igual'' homología. Hay serinas que se encuentran en células eucariontes (Homo Sapiens, Bos Taurus) pero también determinaron en bacterias (Streptomyces griseus). Esto debido a que los organismos no tienen un ancestro en común(o no todos entre ellos), si no que se desarrolló la misma proteína en diferentes individuos por necesidad. Generando la misma proteína en organismos que no tienen alguna relación genética.
 
 **Con lo aprendido, discuta la siguiente frase “identificar la familia a la cual pertenece una
 secuencia a menudo permite inferir su funcionalidad´´**
 
-    Como hemos visto en las preguntas anteriores, la clasificación de las proteínas se realiza en base a la reacción que estas  producen. Por lo tanto, identificar la familia a la cual pertenece la proteína si puede ayudar a acotar el campo de búsqueda del investigador, pero de ninguna forma servirá para hacer una definición completa de la función. Esto porque si bien conocemos la reacción que realiza, no tenemos información sobre cuál es la molécula objetivo, dónde se localiza, qué efectos secundarios genera en alguna vía enzimática/metabólica/señalización, cuáles son los productos que se generan, que cofactores necesita, etc. Por consiguiente, pienso que conocer la familia a la cual pertenece una proteína no es suficiente para determinar la función que esta puede realizar, definiéndola de una forma más completa, pero sí que puede orientar al investigador a realizar hipótesis sobre qué es lo que podría hacer la proteína en base a datos experimentales, o para elaborar un diseño experimental que se adecúe a la reacción que realiza.
-
-**Describa que información que le entrega esta página**
-
-    Prosite es una base de datos de familias y dominios proteicos. Se basa en la idea de que todas las proteínas se pueden agrupar. Para hacer su función, se basa principalmente en el uso de herramientas externas y en ser una base de datos curada.
+    Al identificar la familia esta nos permite tener una ''idea'' de que función tiene la proteína a estudio, ayudando bastante a la determinación o caracterización del modélo a estudio.
+    
 
 **Incorpore a su lista las características de las siguientes proteínas (códigos PDB) representantes
 de las familias**
 
-    1AGS: Código uniprot P09210. Nombre Glutathione S-transferase A2. Especie Homo sapiens (Human). Longitud 81 residuos (dominio 1), Longitud 123(dominio 2). Función: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
+    1AGS: 
+    Código uniprot: P09210. 
+    Nombre: Glutathione S-transferase A2. 
+    Especie: Homo sapiens (Human). 
+    Longitud: 81 residuos (dominio 1), 
+    Longitud: 123(dominio 2). 
+    Función: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
 
-    La secuencia aminoacídica se puede encontrar al final del práctico.
+ Secuencia PDB: 1AGS
+>sp|P09210|GSTA2_HUMAN Glutathione S-transferase A2 OS=Homo sapiens GN=GSTA2 PE=1 SV=4 MAEKPKLHYSNIRGRMESIRWLLAAAGVEFEEKFIKSAEDLDKLRNDGYLMFQQVPMVEI DGMKLVQTRAILNYIASKYNLYGKDIKEKALIDMYIEGIADLGEMILLLPFSQPEEQDAK LALIQEKTKNRYFPAFEKVLKSHGQDYLVGNKLSRADIHLVELLYYVEELDSSLISSFPL LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
 
-    1AGP: Codigo Uniprot P01112. Nombre GTPase HRas. Especie Homo sapiens (Human)
+    1AGP: 
+    Codigo Uniprot: P01112. 
+    Nombre: GTPase HRas. 
+    Especie: Homo sapiens (Human)
+    Funcion: Involucrado en la activación de la transducción de señal de proteína Ras.
     
-    Funcion: Involucrado en la activación de la transducción de señal de proteína Ras (PubMed:22821884). Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca (PubMed:12740440, PubMed:14500341, PubMed:9020151).
-    
-    Enzyme regulation Alterna entre una forma inactiva vinculada al PIB y una forma activa vinculada a GTP. Activado por un factor de intercambio de nucleótidos de guanina (GEF) e inactivado por una proteína activadora de GTPasa (GAP).
-
 
 **Registre el/los nombre(s) de los dominios y patrones encontrados para cada código UniProt.**
 
-1) P09210 (GSTA2_HUMAN). Glutathione S-transferase A2. Resolución 2,5 Angstroms. Cadenas A/B.
-Posee dos dominios:
-- http://pfam.xfam.org/family/PF02798
-- http://pfam.xfam.org/family/PF14497
-El primero es PF02798 y corresponde al extremo dominio terminal N de glutatione S transferasa.
-El segundo es PF14497 y corresponde al extremo dominio terminal C de glutatión S trasferasa.
-2) P01112 
-Esta posee solo 1 dominio(RAS  PF00071):
--	http://pfam.xfam.org/protein/P01112
+    3QTJ: Dominio Tripsina
+    1YPH: Dominio Tripsina  
+    1SGT: Dominio Tripsina y encontró el sitio activa de la histidina y serina
+    2SGA: Encontró el sitio activo de la Histidina
+    1SBT: Encontró los sitios activos de la Histidina, serina y aspártico
+    4h4f: Dominio Tripsina y encontró los sitios activos de Histidina y Serina
+    1AGS: Dominio terminal N y C de la Glutatión S-transferasa
+    1AGP: Corresponde a una GTPasa de la familia RAS
+
 
 
 **¿Cuántos patrones únicos diferentes identificó entre las secuencias? informe el nombre del
 patrón y la secuencia consenso para cada uno de ellos.**
 
-    Según el alineamiento, se encontraron 55 posiciones similares y 28 posiciones idénticas, detallando solo un 10,3 % de identidad. (http://www.uniprot.org/align/A20171024AAFB7E4D2F1D05654627429E83DA5CCED75062L) El trabajo se almacena por 7 días.
-Una sola forma de analizar el alineamiento entrega información sobre dominios conservados, y es la Alpha hélix. Se ve que este dominio está relativamente bien conservado, ya que ambas secuencias la presentan en las mismas coordenadas.
-
+    Según el alineamiento, se encontraron 55 posiciones similares y 28 posiciones idénticas, detallando solo un 10,3 % de identidad. 
+  ![dsfsf](
 
 **¿Que información le entrega esta página?**
 
-    Esta página entrega información acerca de los dominios que conforman a una proteína. Estos dominios son detalladamente descritos en la base de datos (suelen entregar vínculos a Wikipedia) y los agrupa en familias.
+    La página entrega información sobre los dominios que conforman a una proteína.Dichos dominios son descritos en la base de datos y agrupados en familias posteriormente.
 
 **¿Como se clasifican las proteínas en ella?**
 
     Están clasificadas en:
 
     Familia: una colección de regiones proteicas relacionadas 
+    
     Dominio: una unidad estructural 
+    
     Repeticiones: una unidad corta que es inestable en forma aislada pero que forma una estructura estable cuando hay múltiples copias presentes 
+    
     Motivos: una unidad corta que se encuentra fuera de dominios globulares 
+    
     Bobina en espiral: Regiones que contienen predominantemente motivos en espiral enrollada, regiones que típicamente contienen hélices alfa que se enrollan juntas en haces de 2-7. 
+    
     Desordenada: Regiones que se conservan, aunque se muestra o predice que contienen una composición de secuencia sesgada y / o están intrínsecamente desordenadas (no globulares).
 
 
@@ -229,17 +284,19 @@ el mouse sobre cada fila con información en esta sección, se expandirá una ve
 nombre completo del motivo/familia y la base de datos de donde proviene.**
 
 ![dsgsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/1SBT.png?raw=true)
+1SBT
 ![sfhf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/1SGT.png?raw=true)
+1SGT
 ![gshdf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/1YPH.png?raw=true)
+1YPH
 ![dgdfhf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/2SGA.png?raw=true)
+2SGA
 ![dgdh](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/3QTJ.png?raw=true)
+3QTJ
 ![dghfhf](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/4H4F.png?raw=true)
+4H4F
 
 
-**La información obtenida para Pfam y Prosite desde InterPro, ¿corresponde con aquella
-obtenida por usted desde esas bases de datos directamente en los puntos anteriores?**
-
-Si, además nos entrega información adicional de más familias y es más representativa y simple de entender lo que nos entrega la pagina
 
 **¿Qué otras bases de datos, además de Pfam y Prosite, están contenidas en InterPro y que
 información aportan sobre las proteínas que usted investigó? Nombre las bases de datos.**
@@ -264,24 +321,27 @@ Utilizando una secuencia evolucionada de 130 PAM (1 Rates y 130 times), con una 
 de similitud?**
 
 ![dsgg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/20.png?raw=true)
+20 PAM
 ![dsgdsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/30.png?raw=true)
+30 PAM
 ![dsgfdh](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/40.png?raw=true)
+40 PAM
 ![sdgsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/50.png?raw=true)
+50 PAM
 ![dsgs](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/60.png?raw=true)
+60 PAM
 ![sdgdh](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/70.png?raw=true)
+70 PAM
 ![safags](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/80.png?raw=true)
+80 PAM
 ![sadgsg](https://github.com/MrPiggie/Informe-Bioinform-tica-VI/blob/master/90.png?raw=true)
+90 PAM
 
 
 **¿Que cambios deben ocurrir para que la distancia evolutiva no permita reconocer los homológos
 cercanos?**
 
-Para que no permita reconocer, seria perder el sitio activo de la proteína, como también cambiar su estructura, ya puede ser más larga o más corta, lo que haría que no se reconozca su homología en cuanto vaya evolucionando, como por ejemplo en la pregunta anterior, a medida que el tiempo (Generaciones) eran más, los cambios en la proteína eran más drásticos por lo que en algún momento no se reconocerá su homología
+Para no reconocer los homólogos cercanos, la proteína debería de mutar su sitio activo o tener suficientes mutaciones estructurales que impidan dicho reconocimiento por parte de la página.
 
-**En base a sus resultados, ¿que relación debe existir entre la secuencia,estructura y la función?.
-Genere una hipótesis de trabajo.**
-
-Basándome en los resultados del practico, tanto la secuencia como la estructura permiten una función hacia la proteína, por lo que, si se llega a modificar, por ejemplo, la secuencia esta puede perder su sitio activo y además cambiaría su estructura, por lo que ya no sería homologa con la proteína sin modificar; lo mismo pasa con respecto a la estructura, ya que sin ella, la proteína no sería capaz de actuar, debido a inestabilidad o que su estructura no le permita a la proteína actuar.
-Es por eso que, para que una proteína sea funcional, debe poseer una secuencia y una estructura de forma que el sitio activo sea reconocible y accesible para que pueda actuar.
 
 
